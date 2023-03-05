@@ -1,0 +1,28 @@
+.Navdiv
+{
+  border: 2px solid red;
+  height: 75px;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
+.menudiv ul
+{
+  display: flex;
+  list-style: none;
+  width: 500px;
+  justify-content: space-around;
+  
+}
+.menudiv ul li a
+{
+  color: red;
+}
+img
+{
+  padding-left: 20px;
+  height: 40px;
+  width: 150px;
+}
